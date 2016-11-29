@@ -725,7 +725,7 @@ tbody {
   background: url("../images/background-img-4.jpg") 50% 0px no-repeat;
 }
 .background-img-5 {
-  background: url("../images/background-img-5.jpg") 50% 0px no-repeat;
+  background: url("../images/house.jpg") 50% 0px no-repeat;
 }
 .background-img-6 {
   background: url("../images/beach.png") 50% 0px no-repeat;
@@ -2310,7 +2310,7 @@ fieldset[disabled] .btn-default {
 }
 .btn-gray-transparent {
   color: #fff;
-  background-color: #4B0082;
+  background-color: #FFCC33;
   border-color: #fff;
 }
 .btn-gray-transparent:hover,
@@ -6509,7 +6509,7 @@ h6.media-heading {
 }
 .clients .client-image {
   text-align: center;
-  width: 80px;
+  width: 300px;
   height: 80px;
   margin: 5px;
   display: inline-block;
